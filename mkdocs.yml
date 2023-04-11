@@ -21,9 +21,6 @@ nav:
   - 关于:
     - ABOUT/index.md # 使用两个index 这样子左上角第一次打开会是所有Tab 而不是ABOUT
     
-    
-    
-
 # [UI]
 ## [top]
 theme:
