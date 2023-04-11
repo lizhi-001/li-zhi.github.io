@@ -31,7 +31,7 @@ nav:
 ## [top]
 theme:
   name: material
-  logo: fontawesome/solid/terminal
+  logo: octicons/terminal-16
   palette:
     - scheme: default # 日间模式
       primary: white # 上方的
