@@ -31,8 +31,7 @@ nav:
 ## [top]
 theme:
   name: material
-  logo:
-    icon: fontawesome/solid/terminal
+  logo: images/terminal-solid.svg
   palette:
     - scheme: default # 日间模式
       primary: white # 上方的
