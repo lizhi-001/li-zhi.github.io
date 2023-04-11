@@ -6,20 +6,17 @@ site_description: li的个人网站
 
 # [Navigtion]
 nav:
-  - 讲稿:
-    - LECTURE/index.md
-
-  - 博客:
-    - BLOG/index.md
+  - 技术:
+    - TECH/index.md
     
-  - 开发:
-    - DEV/index.md
+  - 项目:
+    - PROJECT/index.md
     
-  - 二次元:
-    - 2/index.md
+  - 音乐:
+    - MUSIC/index.md
     
-  - 三次元:
-    - 3/index.md
+  - 不定期小结:
+    - SUMMARY/index.md
     
   - 关于:
     - ABOUT/index.md # 使用两个index 这样子左上角第一次打开会是所有Tab 而不是ABOUT
