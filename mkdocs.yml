@@ -31,7 +31,8 @@ nav:
 ## [top]
 theme:
   name: material
-  logo: images/terminal-solid.svg
+  icon:
+    logo: 'material/alpha-l-circle-outline'
   palette:
     - scheme: default # 日间模式
       primary: white # 上方的
