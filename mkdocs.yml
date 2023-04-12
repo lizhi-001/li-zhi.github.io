@@ -8,6 +8,7 @@ site_description: li的个人网站
 nav:
   - 技术:
     - TECH/index.md
+    - 博客搭建: TECH/blog_build.md
     
   - 项目:
     - PROJECT/index.md
