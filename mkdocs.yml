@@ -73,8 +73,6 @@ plugins:
         - en
         - ja
   - tags # 给单篇文章添加标签 https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/?h=tags
-  - git-revision-date-localized:
-      type: date # 关联github最后更新时间
 markdown_extensions:
   - pymdownx.arithmatex: # latex支持
       generic: true
