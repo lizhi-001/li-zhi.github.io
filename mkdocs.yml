@@ -25,6 +25,7 @@ nav:
 ## [top]
 theme:
   name: material
+  custom_dir: overrides
   logo: images/alpha-l-circle-outline.svg
   palette:
     - scheme: default # 日间模式
